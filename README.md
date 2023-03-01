@@ -1,2 +1,3 @@
 # TestingPractica
-Practica de testing
+Practica de testing 
+-Ramas creadas: casosdeprueba, historiasdeusuario
